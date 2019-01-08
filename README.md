@@ -2,9 +2,9 @@
 
 ## requriments
 
-pandas
-numpy
-matplotlib
-nsepy
-datetime
+pandas,<br/>
+numpy <br/>
+matplotlib <br/>
+nsepy <br/>
+datetime <br/>
 bokeh
